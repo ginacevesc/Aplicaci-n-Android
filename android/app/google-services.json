@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166323572512",
+    "project_id": "citascucei-5ba5e",
+    "storage_bucket": "citascucei-5ba5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166323572512:android:f92deba42d902292019145",
+        "android_client_info": {
+          "package_name": "com.citascucei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166323572512-rdiec96kp3tkje4cgji0gu04hs5428nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJS0wyixmMlQta_WTdtb8RIbxnjYWwbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166323572512-rdiec96kp3tkje4cgji0gu04hs5428nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
